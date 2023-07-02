@@ -27,9 +27,9 @@ app.use("/api/products",products);
 // creating route for usersAuthentication
 app.use('/api/users', require("./routes/auth"));
 
-app.use(express.static(path.resolve(__dirname,"build")));
+app.use(express.static(path.resolve(__dirname,"public")));
 app.use("*",(req,res)=>{
-    res.sendFile(path.resolve(__dirname,"build","index.html"));
+    res.sendFile(path.resolve(__dirname,"public","index.html"));
 })
 
 app.get('/',(req,res)=>{
