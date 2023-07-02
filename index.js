@@ -26,8 +26,7 @@ app.use("/api/products",products);
 // creating route for usersAuthentication
 app.use('/api/users', require("./routes/auth"));
 
-
-
+app.use(express.static("build"));
 
 app.get('/',(req,res)=>{
     res.send("hello world");
