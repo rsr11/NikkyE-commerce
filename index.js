@@ -5,12 +5,13 @@ const SendingProucts = require("./ProductsDb");
 // const Products = require("./models/Products");
 const products = require("./routes/products");
 const path = require("path");
-
+const dotenv = require("dotenv");
 
 connectToMongo();  
 SendingProucts();
 
 const app = express();
+const port = process.env.PORT;
 
 app.use(cors());
 
@@ -39,6 +40,6 @@ app.get('/',(req,res)=>{
 
 
 
-app.listen(5000,()=>{
+app.listen(port, "0.0.0.0",()=>{
     console.log("connect to port 5000");
 })
