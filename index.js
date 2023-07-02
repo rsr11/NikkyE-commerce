@@ -4,6 +4,7 @@ const cors = require("cors");
 const SendingProucts = require("./ProductsDb");
 // const Products = require("./models/Products");
 const products = require("./routes/products");
+const path = require("path");
 
 
 connectToMongo();  
@@ -26,7 +27,10 @@ app.use("/api/products",products);
 // creating route for usersAuthentication
 app.use('/api/users', require("./routes/auth"));
 
-app.use(express.static("build"));
+app.use(express.static(path.resolve(__dirname,"build")));
+app.use("*",(req,res)=>{
+    res.sendFile(path.resolve(__dirname,"build","index.html"));
+})
 
 app.get('/',(req,res)=>{
     res.send("hello world");
