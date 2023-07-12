@@ -222,19 +222,7 @@
                          "coverPage":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/31396a4e-2074-4ff7-a0a8-8b850d33bcb9/jordan-brooklyn-fleece-crew-neck-sweatshirt-Ctt2nH.png",
                          "detail":"Get into it with this sleek, performance-ready hoodie. Soft fleece infused with sweat-wicking tech keeps you dry throughout your workout. When it comes to the jacket's design, everything is smooth. Taking nods from MJ's iconic trackssuit, concealed pockets blend into the Wings lines. Zip up, and you're ready to go." 
       } ,
-    {
-                         "name":"Nike Club Fleece",
-                         "category":"Men Hoodie",
-                         "feature":false,
-                         "AddressName":"NikeClubFleece",
-                         "images":["https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a8736370-a763-4916-9242-75de65d74a0e/club-fleece-french-terry-pullover-hoodie-SsJFPV.png",
-                         "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/370f0932-837f-40cc-95d7-dca7a37d0156/club-fleece-french-terry-pullover-hoodie-SsJFPV.png",
-                         "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/f342f4ff-0d1d-489f-87f3-f0e443f5bd41/club-fleece-french-terry-pullover-hoodie-SsJFPV.png",
-                         "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/547da9e2-cb7c-4f92-91ec-dd94aa0a4568/club-fleece-french-terry-pullover-hoodie-SsJFPV.png"],
-                         "price":4095,
-                         "coverPage":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/892b38a6-47a1-4934-b9cd-faa4811f952f/club-fleece-french-terry-pullover-hoodie-SsJFPV.png",
-                         "detail":"Get into it with this sleek, performance-ready hoodie. Soft fleece infused with sweat-wicking tech keeps you dry throughout your workout. When it comes to the jacket's design, everything is smooth. Taking nods from MJ's iconic trackssuit, concealed pockets blend into the Wings lines. Zip up, and you're ready to go." 
-    } ,
+
     {
       "name":"Nike Gripknit Phantom GX Elite FG",
       "category":"Football Shoes",
@@ -286,33 +274,8 @@
   "price":5995,
   "coverPage":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5e02f6c0-3eaa-4bf6-adef-4292535b35bb/mercurial-superfly-9-club-mg-multi-ground-football-boot-PwHVpF.png",
   "detail":"1 of our lightest Tiempos to date, the Nike Tiempo Legend 9 Academy MG lets you go on the offensive with a low-profile design that's reinvented for attackers. The upper has raised textures backed by soft foam pods for precise dribbling, passing and shooting, while studs on the bottom provide traction for quick cuts and sudden stops."
-},
-{
-  "name":"Nike Phantom GT2 Club MG",
-  "category":"Football Shoes",
-  "AddressName":"NikePhantom",
-  "feature":false,
-  "images":["https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/5f91149b-beaf-4411-90ef-cc6353417ea5/phantom-gt2-club-mg-multi-ground-football-boots-b2Cs1m.png",
-  "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f6fef224-0873-48b5-95ce-5ab3f632f821/phantom-gt2-club-mg-multi-ground-football-boots-b2Cs1m.png",
-  "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/3a0c7001-6ba1-4383-b9fc-f0ab1fbccfba/phantom-gt2-club-mg-multi-ground-football-boots-b2Cs1m.png",
-  "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/dc18274e-cbdd-4859-a55e-f33d8ee04e09/phantom-gt2-club-mg-multi-ground-football-boots-b2Cs1m.png"],
-  "price":4995,
-  "coverPage":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/85e305c3-9e40-42ca-b939-8912e15660ee/phantom-gt2-club-mg-multi-ground-football-boots-b2Cs1m.png",
-  "detail":"1 of our lightest Tiempos to date, the Nike Tiempo Legend 9 Academy MG lets you go on the offensive with a low-profile design that's reinvented for attackers. The upper has raised textures backed by soft foam pods for precise dribbling, passing and shooting, while studs on the bottom provide traction for quick cuts and sudden stops."
-},
-{
-  "name":"The Nike Premier 3 FG",
-  "category":"Football Shoes",
-  "AddressName":"NikePremier",
-  "feature":false,
-  "images":["https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f4bac890-f200-46be-8dbe-81d627c8cfb8/premier-3-fg-football-boot-5CPFpf.png",
-  "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1487034d-59fe-4dac-8ee4-5041ddb34443/premier-3-fg-football-boot-5CPFpf.png",
-  "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/807cb2da-af79-4ef9-94e7-2cc84fd3100f/premier-3-fg-football-boot-5CPFpf.png",
-  "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/d67f8175-7424-4025-8cb0-965748c92906/premier-3-fg-football-boot-5CPFpf.png"],
-  "price":9995,
-  "coverPage":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/dfa94d24-2521-4c8d-91be-6d9f90050ff7/premier-3-fg-football-boot-5CPFpf.png",
-  "detail":"1 of our lightest Tiempos to date, the Nike Tiempo Legend 9 Academy MG lets you go on the offensive with a low-profile design that's reinvented for attackers. The upper has raised textures backed by soft foam pods for precise dribbling, passing and shooting, while studs on the bottom provide traction for quick cuts and sudden stops."
 }
+
 
     
                         ]
