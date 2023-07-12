@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.4752dc52.css",
-    "main.js": "/static/js/main.00242f9c.js",
-    "static/js/33.5f56a8a2.chunk.js": "/static/js/33.5f56a8a2.chunk.js",
+    "main.css": "/static/css/main.8dcf7e48.css",
+    "main.js": "/static/js/main.a0298349.js",
+    "static/js/33.b46a523e.chunk.js": "/static/js/33.b46a523e.chunk.js",
     "static/js/161.be536696.chunk.js": "/static/js/161.be536696.chunk.js",
-    "static/js/188.d9cc29c7.chunk.js": "/static/js/188.d9cc29c7.chunk.js",
-    "static/js/826.4f4eb3b7.chunk.js": "/static/js/826.4f4eb3b7.chunk.js",
+    "static/js/188.5c08b305.chunk.js": "/static/js/188.5c08b305.chunk.js",
+    "static/js/826.4cd2520d.chunk.js": "/static/js/826.4cd2520d.chunk.js",
     "static/media/FirstCover.mp4": "/static/media/FirstCover.6b556efdb8e40426213f.mp4",
     "static/media/NikeTeeCover.jpg": "/static/media/NikeTeeCover.d582b66d9c5901ca82e3.jpg",
     "static/media/footballShoesCover.jpg": "/static/media/footballShoesCover.0eb2773709d557d217f1.jpg",
@@ -17,16 +17,17 @@
     "static/media/facebook.png": "/static/media/facebook.01a470d813915c298403.png",
     "static/media/twitter.png": "/static/media/twitter.894988327f8d68209e91.png",
     "static/media/eye.png": "/static/media/eye.cd074d043a80f09623ac.png",
+    "static/media/Dual Ring-1s-201px.svg": "/static/media/Dual Ring-1s-201px.c26168682cc3f9ba0f48a7b97adb1259.svg",
     "index.html": "/index.html",
-    "main.4752dc52.css.map": "/static/css/main.4752dc52.css.map",
-    "main.00242f9c.js.map": "/static/js/main.00242f9c.js.map",
-    "33.5f56a8a2.chunk.js.map": "/static/js/33.5f56a8a2.chunk.js.map",
+    "main.8dcf7e48.css.map": "/static/css/main.8dcf7e48.css.map",
+    "main.a0298349.js.map": "/static/js/main.a0298349.js.map",
+    "33.b46a523e.chunk.js.map": "/static/js/33.b46a523e.chunk.js.map",
     "161.be536696.chunk.js.map": "/static/js/161.be536696.chunk.js.map",
-    "188.d9cc29c7.chunk.js.map": "/static/js/188.d9cc29c7.chunk.js.map",
-    "826.4f4eb3b7.chunk.js.map": "/static/js/826.4f4eb3b7.chunk.js.map"
+    "188.5c08b305.chunk.js.map": "/static/js/188.5c08b305.chunk.js.map",
+    "826.4cd2520d.chunk.js.map": "/static/js/826.4cd2520d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4752dc52.css",
-    "static/js/main.00242f9c.js"
+    "static/css/main.8dcf7e48.css",
+    "static/js/main.a0298349.js"
   ]
 }
